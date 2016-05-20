@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Tristan/Documents/NetBeansProjects/airport.asmx.xml" uri="src/conf/xml-resources/web-services/Airport/wsdl/airport.asmx.xml.wsdl"/>
+    <system systemId="file:/C:/Users/Tristan/Documents/NetBeansProjects/globalweather.asmx.xml" uri="src/conf/xml-resources/web-services/city/wsdl/globalweather.asmx.xml.wsdl"/>
+    <system systemId="file:/C:/Users/Tristan/Documents/NetBeansProjects/globalweather.asmx" uri="src/conf/xml-resources/web-services/GlobalWeather/wsdl/globalweather.asmx.wsdl"/>
+    <system systemId="file:/C:/Users/Tristan/Documents/NetBeansProjects/airport.asmx" uri="src/conf/xml-resources/web-services/Airport/wsdl/airport.asmx.wsdl"/>
+</catalog>
